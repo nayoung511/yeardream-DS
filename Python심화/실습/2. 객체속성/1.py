@@ -13,7 +13,7 @@ print(lee.data2)
 # --> 객체 지향을 위반
 # OOP에서는 attribute를 각각 mapping해서 넣기를 원했는데 이게 안됨
 
-#print(kim.data2) #에러
+#print(kim.data2) #에러발생
 
 
 # 어떻게 해결하면 좋을까?
