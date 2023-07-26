@@ -1,0 +1,6 @@
+import pickle
+
+a = [[(i, j) for i in range (10)] for j in range (10)]
+
+with open("test.pk1", "wb") as fd:
+    pickle.dump(a, fd) # a를 fd파일에 넣겠다

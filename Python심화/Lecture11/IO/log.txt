@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/c06/Desktop/이어드림/yeardream-DS/Python심화/Lecture11/test1.py", line 12, in <module>
+    raise NotImplementedError()
+NotImplementedError

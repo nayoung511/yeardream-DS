@@ -1,0 +1,9 @@
+nana : "테스트 중 입니다."
+id : 4
+user:
+  hojuncho:
+    sid: 12356
+    address: sungnam
+  sanghyunlee:
+    sid: 58690
+    address: seoul
