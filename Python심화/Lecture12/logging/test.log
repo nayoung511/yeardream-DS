@@ -1,0 +1,12 @@
+INFO:root:정보확인
+WARNING:root:정보확인
+ERROR:root:정보확인
+CRITICAL:root:치명적인 에러
+INFO:__main__:정보확인
+WARNING:__main__:정보확인
+ERROR:__main__:정보확인
+CRITICAL:__main__:치명적인 에러
+WARNING:functions:정보확인
+ERROR:functions:정보확인
+CRITICAL:functions:치명적인 에러
+WARNING:root:functions에서 호출됨
