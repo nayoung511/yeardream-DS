@@ -1,4 +1,8 @@
 /강의
 *.mp4
 textbook/
+<<<<<<< HEAD
+=======
+선형대수/textbook/
+>>>>>>> refs/remotes/origin/main
 Paper/
